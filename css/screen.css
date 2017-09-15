@@ -17,28 +17,25 @@ body {
 .section:nth-child(2) {
     height: 100vh;
     line-height: 100vh;
-    background: #3498db;
+    background: #DD5044;
 }
 .section:nth-child(3) {
     height: 100vh;
     line-height: 100vh;
-    background: url("http://wx1.sinaimg.cn/large/ceecfd8cly1fh7ueud0rrj21hc0u0tki.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
+    background: #17A05E;
+    
 }
 .section:nth-child(4) {
     height: 100vh;
     line-height: 100vh;
-    background: url("http://wx1.sinaimg.cn/large/ceecfd8cly1fi6okjdz53j21hc0u0wix.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
+    background: #FFCE43;
+   
 }
 .section:nth-child(5) {
     height: 100vh;
     line-height: 100vh;
-    background: url("http://wx2.sinaimg.cn/large/ceecfd8cly1fj20c9p2lrj20l40coq6d.jpg");
-    background-size: contain;
-    background-repeat: no-repeat;
+    background: #4B8BF5;
+    
 }
 .section i {
     width: 32px;
