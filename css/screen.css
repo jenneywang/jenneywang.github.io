@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+}
+
+.section {
+    font-family: 'Roboto Slab', serif;
+    font-weight: 500;
+    font-size: 2em;
+    color: #fff;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+    float: left;
+    text-align: center;
+}
+.section:nth-child(2) {
+    height: 100vh;
+    line-height: 100vh;
+    background: #3498db;
+}
+.section:nth-child(3) {
+    height: 100vh;
+    line-height: 100vh;
+    background: url("http://wx1.sinaimg.cn/large/ceecfd8cly1fh7ueud0rrj21hc0u0tki.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.section:nth-child(4) {
+    height: 100vh;
+    line-height: 100vh;
+    background: url("http://wx1.sinaimg.cn/large/ceecfd8cly1fi6okjdz53j21hc0u0wix.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.section:nth-child(5) {
+    height: 100vh;
+    line-height: 100vh;
+    background: url("http://wx2.sinaimg.cn/large/ceecfd8cly1fj20c9p2lrj20l40coq6d.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.section i {
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    color: #fff;
+    bottom: 5%;
+    left: 50%;
+    margin-left: -8px;
+}
